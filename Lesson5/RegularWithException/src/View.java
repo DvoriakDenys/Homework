@@ -11,14 +11,16 @@ public class View {
     public final String ADD_ANOTHER_USER = "If you want to add another user, enter word 'yes'";
     public final String DUPLICATE_LOGIN = "This login is already taken, please write another login";
     /**
-     * @param message
+     * The method shows instructions for filling the user in the e-book
+     * @param message - instruction for person
      */
     public void showMessage(String message) {
         System.out.println(message);
     }
 
     /**
-     * @param users
+     * The method shows information about all users
+     * @param users - list of users
      */
     public void showInfoUsers(List<User> users) {
         for (User user : users) {

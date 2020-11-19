@@ -1,7 +1,7 @@
 import java.util.List;
 
 public class View {
-    public final String FIRST_NAME = "write your first name in Ukrainian";
+    public final String FIRST_NAME = "Write your first name in Ukrainian";
     public final String LOGIN = "Write your login";
     public final String PHONE_NUMBER = "Write your phone number, for example +(380) ## ### ## ##";
     public final String WRONG_INPUT = "You entered wrong value";

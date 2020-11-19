@@ -69,15 +69,15 @@ public class Controller {
         User user = new User();
         user.setId(generatedUserId);
 
-//        view.showMessage(view.FIRST_NAME);
-//        user.setName(processValue(Regular.REGEX_FIRST_NAME));
-//
-//        view.showMessage(view.EMAIL);
-//        user.setEmail(processValue(Regular.REGEX_EMAIL));
-//
-//        view.showMessage(view.PHONE_NUMBER);
-//        user.setPhoneNumber(processValue(Regular.REGEX_PHONE_NUMBER));
-//
+        view.showMessage(view.FIRST_NAME);
+        user.setName(processValue(Regular.REGEX_FIRST_NAME));
+
+        view.showMessage(view.EMAIL);
+        user.setEmail(processValue(Regular.REGEX_EMAIL));
+
+        view.showMessage(view.PHONE_NUMBER);
+        user.setPhoneNumber(processValue(Regular.REGEX_PHONE_NUMBER));
+
         view.showMessage(view.LOGIN);
         user.setLogin(processValue(Regular.REGEX_LOGIN));
 
