@@ -13,6 +13,7 @@ public class TestArithmetics {
 
     @Test
     public void testAdd() {
+
         double res = arithmetics.add(10, 5);
         Assert.assertFalse("Something went wrong with method add", res != 15);
     }
