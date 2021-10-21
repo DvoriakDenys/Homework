@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T15:26:47.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.5.0" etag="OZFmTQutIMrunTxdzKI4" type="github"><diagram id="UEWHruC7Ic6yg-W5OLT9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-21T16:58:08.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="ng7n8DcQzpXrAjU392QQ" version="15.5.0" type="github">
+  <diagram id="UEWHruC7Ic6yg-W5OLT9" name="Page-1">
+    <mxGraphModel dx="743" dy="399" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-1" value="Будинок контрольований за допомогою голосу та жестів&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="240" width="186" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-2" value="Програмований будинок часом та сигналами сенсорів&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="310" width="186" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rrwhjWl5xXXXJuGW71Q7-3" target="rrwhjWl5xXXXJuGW71Q7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rrwhjWl5xXXXJuGW71Q7-3" target="rrwhjWl5xXXXJuGW71Q7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rrwhjWl5xXXXJuGW71Q7-3" target="rrwhjWl5xXXXJuGW71Q7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-3" value="Smart House" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="330" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-4" value="Будинок із взаємопов&#39;язаними пристроями" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="140" width="186" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-5" value="Будинок з одним інтегрованим дистанційним контролером" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="190" width="186" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="rrwhjWl5xXXXJuGW71Q7-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="460" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rrwhjWl5xXXXJuGW71Q7-6" target="rrwhjWl5xXXXJuGW71Q7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-6" value="Інтелектуальний будинок" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rrwhjWl5xXXXJuGW71Q7-7" target="rrwhjWl5xXXXJuGW71Q7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rrwhjWl5xXXXJuGW71Q7-7" target="rrwhjWl5xXXXJuGW71Q7-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-7" value="Програмований будинок" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="330" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rrwhjWl5xXXXJuGW71Q7-8" target="rrwhjWl5xXXXJuGW71Q7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rrwhjWl5xXXXJuGW71Q7-8" target="rrwhjWl5xXXXJuGW71Q7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rrwhjWl5xXXXJuGW71Q7-8" target="rrwhjWl5xXXXJuGW71Q7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-8" value="Керований будинок" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="190" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-9" value="Програмований будинок оцінюючий та визнаючаючий ситуацію" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="360" width="186" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-10" value="Інтелектуальний будинок оцінюючи і визначаючи ситуацію відповідно сценарію&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="470" width="186" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rrwhjWl5xXXXJuGW71Q7-11" value="Інтелектуальний будинок реагуючий на сенсори" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="420" width="186" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
